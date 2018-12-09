@@ -5,4 +5,4 @@ This is a collection of challenges created by [***Mysterial***](https://github.c
 
 ## Current Challenge
 
-The current challenge is [*Stringer*](/Stringer)!
+The current challenge is [*Stringer*](./Stringer)!
