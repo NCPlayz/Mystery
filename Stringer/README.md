@@ -1,4 +1,4 @@
-# Parser
+# Stringer
 ```py
 # Take this list and transform it into...
 << ['string@', 69, ['string in list#'], {'key!': 'value'}, (0, 'zero')]
@@ -24,3 +24,5 @@
 0.3934655409975676  #Lamawalrus
 0.5749265419945004  #Silical
 ```
+
+[Go Back](../)
